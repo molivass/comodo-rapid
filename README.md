@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="misc/comodo-rapid\_logo.svg" alt="Logo de COMODO Rapid">
+  <img src="misc/comodo-rapid_logo.svg" width="500" alt="Logo de COMODO Rapid">
 </p>
 
 # COMODO Rapid
@@ -10,8 +10,8 @@ Desarrollado en **ABB RobotStudio**, el programa maneja la comunicación con el 
 
 ## Estructura del Proyecto
 
-* **`/rapid\_modules`**: Módulos RAPID que componen el programa del robot (main, subrutinas).
-* **`/robotstudio\_project`**: Archivos del proyecto de RobotStudio.
+* **`/rapid_modules`**: Módulos RAPID que componen el programa del robot (main, subrutinas).
+* **`/robotstudio_project`**: Archivos del proyecto de RobotStudio.
 
 ## Instalación
 
@@ -19,5 +19,5 @@ Desarrollado en **ABB RobotStudio**, el programa maneja la comunicación con el 
 2. Abre el proyecto en RobotStudio y sincronízalo con el robot real.
 3. Carga el programa en la controladora.
 
-> \*\*Nota\*\*: Diseñado para el robot \*\*ABB IRB 1090\*\* con controladora \*\*OmniCore E10\*\*.
+> **Nota**: Diseñado para el robot **ABB IRB 1090** con controladora **OmniCore E10**.
 
